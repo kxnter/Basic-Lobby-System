@@ -17,12 +17,12 @@ Featurs
     Join Items (Costum Names)
 
 [!] > COMPATIBLE WITH 1.8! < [!]
-―――――――――――――――――――――
+
 
 Commands
 
 List of all available commands in the plugin.
-――――――――――――
+
 /setGame1 /setGame2
 /setGame3 /setGame 4
 
@@ -31,14 +31,14 @@ List of all available commands in the plugin.
 
 /Setspawn
 
-―――――――――――――――――――――
+
 Permissions
 
 List of all avaliable permissions in the plugin.
 
     lobby.set
 
-―――――――――――――――――――――
+
 
 
 Config
@@ -50,7 +50,7 @@ Config
     Trampolin(Sponge Pad)
     and more!
 
-―――――――――――――――――――――
+
 
 
 In cooperation with Mr_BlacKs (only on Spigot!)
