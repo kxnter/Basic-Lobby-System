@@ -25,12 +25,12 @@ List of all available commands in the plugin.
 ――――――――――――
 /setGame1 /setGame2
 /setGame3 /setGame 4
-――――――――――――
+
 /Game1 /Game2 /
 /Game3 /Game4
-――――――――――――
+
 /Setspawn
-――――――――――――
+
 ―――――――――――――――――――――
 Permissions
 
