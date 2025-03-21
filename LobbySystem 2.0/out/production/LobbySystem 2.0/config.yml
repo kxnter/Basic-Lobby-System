@@ -1,0 +1,29 @@
+Config:
+  Navigator:
+    Gametypes: 'vier'
+    Game1:
+      GameName: '&cBedWars'
+      Item:  'BED'
+      CMDTT: 'Game1'
+    Game2:
+      GameName: '&aSkyBlock'
+      Item:  'GRASS'
+      CMDTT: 'Game2'
+    Game3:
+      GameName: '&cTTT'
+      Item:  'STICK'
+      CMDTT: 'Game3'
+    Game4:
+      GameName: '&aSurvivalGames'
+      Item:  'IRON_SWORD'
+      CMDTT: 'Game4'
+  PlayerHide:
+    MessageOnHide: '&aDie Spieler sind nun unsichtbar!'
+    MessageOnShow: '&cDie Spieler sind nun sichtbar!'
+  JoinItems:
+    Navigator:
+      name: '&aNavigator'
+    PlayerToggle:
+      name: '&3PlayerToggle'
+  Trampolin:
+    Toggle: 'ein'

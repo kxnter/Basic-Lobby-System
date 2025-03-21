@@ -1,0 +1,14 @@
+name: LobbySystem
+version: 2.0
+author: MrBlacks
+main: mrblacks.Main.main
+commands:
+  setgame1:
+  setgame2:
+  setgame3:
+  setgame4:
+  game1:
+  game2:
+  game3:
+  game4:
+  setspawn:
